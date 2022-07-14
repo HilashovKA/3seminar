@@ -4,4 +4,4 @@
 * [ ] Стать разработчиком
 
 * [ ] Ну шо научился?
-* [ ] push B repository
+* [x] push B repository
